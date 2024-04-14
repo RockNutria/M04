@@ -1,0 +1,12 @@
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\RockNutria>python
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import zoo
+>>> zoo.hours()
+Open 9-5 daily
+>>> import zoo as menagerie
+>>> menagerie.hours()
+Open 9-5 daily
